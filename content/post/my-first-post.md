@@ -4,11 +4,10 @@ date: 2021-08-20T00:26:39+08:00
 draft: false
 ---
 
-# hello world
+# # 👋Hi, There
 
-HKJFKJAFKJ
-jfksdj
+python is ugly
 
 ```python
-print("hllo world)
+print("hllo world")
 ```
